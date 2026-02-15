@@ -33,7 +33,7 @@ This is a PHP-based Job Search web application that allows employers to post job
 5. Update database credentials in `config.php`
 6. Start Apache and MySQL
 7. Open browser and go to:
-   http://localhost/your-project-folder(Or wheresover u saved your project)
+   http://localhost/your-project-folder (Or wheresover u saved your project)
 
 ---
 
